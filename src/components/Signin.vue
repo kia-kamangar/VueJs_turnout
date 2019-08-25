@@ -13,7 +13,7 @@
 </template>
 
 <script>
-import { firebaseApp } from '../firebaseApp.js'
+import { firebaseApp } from '../firebaseApp'
   export default {
     data() {
       return {
